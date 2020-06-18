@@ -1,2 +1,3 @@
 # hello-world
-Activity
+
+Hi humans! I'm just testing out git features!
